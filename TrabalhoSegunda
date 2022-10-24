@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html lang="pt-br">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cloud Life</title>
+</head>
+<body>
+    
+
+<header>
+    <table>
+        <td width="60%">
+            <img src="/Users//anna.cbarros/Downloads/LogoCloud.jpeg" width="35%" height="35%">
+        </td>
+        <td>
+            <th>
+            <nav>
+                <a href="https://www.w3schools.com/html/html_table_borders.asp" target="Frame">
+        
+                Home
+            </a>
+            </nav>
+        </th>
+        </td>
+        <td>
+            <th>
+            <nav><a href="/Users//anna.cbarros/Desktop/Cloud life/Quemsomos.html" target="Frame">Quem Somos</a></nav>
+        </td>
+    </th>
+        <td>
+            <th>
+            <nav>
+                Cadastro
+            </nav>
+        
+        </td>
+    </th>
+        <td>
+            <th>
+            <nav>
+                Ajuda
+            </nav>
+        </td>
+    </th>
+    </table>
+    <iframe name="Frame" height="265px" img src="/Users/anna.cbarros/Downloads/Exemplo.jpeg" width="100%">
+        
+    </iframe>
+    
+</header>
+
+</body>
+<footer>
+    
+</footer>
+</html>
