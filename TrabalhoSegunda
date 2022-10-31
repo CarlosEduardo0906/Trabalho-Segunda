@@ -12,7 +12,7 @@
 <header>
     <table>
         <td width="60%">
-            <img src="/Users//anna.cbarros/Downloads/LogoCloud.jpeg" width="35%" height="35%">
+            <img src="/Users/2/Downloads/LogoCloud.jpeg" width="35%" height="35%">
         </td>
         <td>
             <th>
@@ -26,13 +26,13 @@
         </td>
         <td>
             <th>
-            <nav><a href="/Users//anna.cbarros/Desktop/Cloud life/Quemsomos.html" target="Frame">Quem Somos</a></nav>
+            <nav><a href="Quemsomos.html" target="Frame">Quem Somos</a></nav>
         </td>
     </th>
         <td>
             <th>
             <nav>
-                Cadastro
+                <a href="Cadastro.html" target="Frame">Cadastro</a>
             </nav>
         
         </td>
@@ -45,7 +45,7 @@
         </td>
     </th>
     </table>
-    <iframe name="Frame" height="265px" img src="/Users/anna.cbarros/Downloads/Exemplo.jpeg" width="100%">
+    <iframe name="Frame" height="300px" img src="/Users/2/Downloads/Fundo pagina.jpeg" width="100%">
         
     </iframe>
     
