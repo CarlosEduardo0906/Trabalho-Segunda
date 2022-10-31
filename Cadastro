@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+</head>
+<body>
+    <table width="70%">
+        <tr>
+            <td colspan="2"><img src="/Users/2/Downloads/LogoCloud.jpeg" /></td>
+        </tr>
+        <tr>
+            <td width="30%"><img src="/Users/2/Downloads/Fundo pagina.jpeg" /></td>
+            <td width="70%">
+                <table>
+                    <tr>
+                        <td colspan="2"><h2>Cadastre-se</h2></td>
+                    </tr>
+                    <!--Cadastro usuario-->
+                    <tr>
+                        <th>
+                            <label for="myuser">Usuario:*</label>
+                        </th>
+                        <td>
+                            <input type="text" id="myuser" name="myuser" required="true" placeholder="Usuario">
+                        </td>
+                    </tr>
+                    <!--Cadastro Senha-->
+                    <tr>
+                        <th>
+                            <label for="mypwd">Senha:*</label>
+                        </th>
+                        <td>
+                            <input type="password" id="myuser" name="mypwd" required="true" placeholder="Senha">
+                        </td>
+                    </tr>
+                    <!--Cadastro Email-->
+                    <tr>
+                        <th>
+                            <label for="myemail">Email:*</label>
+                        </th>
+                        <td>
+                            <input type="email" id="myemail" name="myemail" required="true" placeholder="Email Valido">
+                        </td>
+                    </tr>
+                    <!--Data de nanscimento-->
+                    <tr>
+                        <th>
+                            <label for="mydob">Data de nascimento:*</label>
+                        </th>
+                        <td>
+                            <input type="date" id="mydob" name="mydob" required="true">
+                        </td>
+                    </tr>
+                    <!--Gênero-->
+                    <tr>
+                        <th>
+                            <label for="gender">Gênero:*</label>
+                        </th>
+                        <td>
+                            <br><input type="radio" id="gender" name="gender" value="Masculino"> Masculino
+                            <br><input type="radio" id="gender" name="gender" value="Feminino"> Feminino
+                            <br><input type="radio" id="gender" name="gender" value="Outro"> Outro
+                            <br><input type="radio" id="gender" name="gender" value="Não Informar"> Não Informar
+                        </td>
+                    </tr>
+                    <!--Confirmar-->
+                    <tr>
+                        <td colspan="2">
+                            <br/><input type="submit" value="Registrar-se" name="Registrar-se">
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
