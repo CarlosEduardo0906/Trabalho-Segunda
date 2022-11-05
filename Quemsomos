@@ -1,12 +1,44 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Quem Somos|Cloud Life</title>
 </head>
 <body>
-    <p> teste </p>
+    <section>
+        <article>
+    <h1><span>Quem Somos</span></h1>
+    <aside><h3> A CloudLife é um serviço de prontuário unificado para melhor atendimento em urgências e consultas. 
+        Essa idéia surgiu a partir de um projeto da faculdade, aonde, nós teríamos que problematizar situações, para que através dela, os problemas citados é discussão fossem resolvidos e materializados em um site inicial. A apreciação  de concepção foi formada por um de nossos integrantes que se chama por Gustavo José da Silva Lins, quando um de seus parentes precisou ser socorrido com sintomas graves, e por falta de acesso à informações médicas anteriores, foi medicado de forma incorreta, resultando em sua morte. Oque nos diferencia de outras empresas é a versatilidade, e a nossa idéia inovadora de adaptar nosso serviço, para atender o máximo possível de pessoas de diferentes idades e localidades.</h3></aside>
+    </article>
+    </section>
+    <section>
+        <article>
+        <h1><span>Hospitais</span></h1>
+        <aside><h3>Os hospitais serão responsáveis por toda a administração de pacientes e médicos, controlando a entrada de medicos e pacientes, é também as informações alteradas.</h3></aside>
+</article>
+    </section>
+    <section>
+        <!--O div contido com class, será completo assim que for liberado o uso do css-->
+        <article>
+        <h1><span>Médicos</span></h1>
+        <aside><h3>Médicos terão acesso aos prontuários dos seus respectivos pacientes, com livre acesso para adicionar informações ou removê-las.</h2></aside>
+            <div class="row">
+                <div class="column"><img src="/Users/2/Downloads/WhatsApp Image 2022-11-04 at 12.13.35.jpeg" width="35%" height="30%"></div>
+                <div class="column"><img src="/Users/2/Downloads/WhatsApp Image 2022-11-04 at 12.16.12.jpeg" width="35%" height="30%"></div>
+            </div>
+    </article>
+        </section>
+    <section>
+        <article>
+        <h1><span>Pacientes</span></h1>
+        <aside><h3>Pacientes terão acesso a todo seu histórico hospitalar, podendo alterar suas informações com base no que foi compartilhado pelo profissional responsável.</h3></aside>
+        <aside><div class="row">
+            <div class="column"><img src="/Users/2/Downloads/WhatsApp Image 2022-11-04 at 12.09.14.jpeg" width="35%" height="30%"></div></aside>
+        </div>
+    </article>
+    </section>
 </body>
 </html>
